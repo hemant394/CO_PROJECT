@@ -1,0 +1,8 @@
+512b   #cache-1 size ,we can write in either bytes or kilobytes
+2kb  #cache-2 size   ,we can write in either bytes or kilobytes
+8  #block size
+2  #associativity(2 means 2-way associative cache) { SAME FOR BOTH CACHE }
+1  #access latency of cache-1 (INTEGER REPRESENT NUMBER OF CYCLES)
+5  #access latency of cache-2 (INTEGER REPRESENT NUMBER OF CYCLES)
+50  #main memory access time (INTEGER REPRESENT NUMBER OF CYCLES)
+
